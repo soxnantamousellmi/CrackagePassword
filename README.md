@@ -17,4 +17,4 @@ nous avons suivi les étapes suivantes :
 
   . Implementaion de la Factory utilisee pour créer des objets de stratégies de craquage de mots de passe en fonction de la méthode spécifiée. Elle offre une manière abstraite et flexible de créer ces objets, permettant l'ajout facile de nouvelles méthodes de craquage sans modifier le code existant.
 
-  Notre commit a ete ajoute dans une branche "Mabranche" par inadvertance ( aussi commes les debutants que nous sommes :( )
+  Notre commit a ete ajoute dans cette branche "Mabranche" par inadvertance ( aussi commes les debutants que nous sommes :( )
